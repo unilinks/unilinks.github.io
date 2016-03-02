@@ -1,0 +1,233 @@
+[
+  {
+    "title":"Allgemein",
+    "entries":[
+      {
+        "name":"Studierenden-Portal",
+        "url":"https://portal.slm.tu-dresden.de/"
+      },
+      {
+        "name":"Stundenpläne",
+        "url":"http://www.et.tu-dresden.de/stundenplan/stundenplan_auswahl.php"
+      },
+      {
+        "name":"Hisqis",
+        "url":"https://qis.dez.tu-dresden.de/"
+      },
+      {
+        "name":"Prüfungsamt",
+        "url":"http://www.et.tu-dresden.de/etit/index.php?id=pruefungsamt"
+      },
+      {
+        "name":"jExam",
+        "url":"https://jexam.inf.tu-dresden.de/de.jexam.web.v4.5/spring/welcome"
+      },
+      {
+        "name":"Opal",
+        "url":"https://bildungsportal.sachsen.de/opal/dmz/"
+      },
+      {
+        "name":"Prüfungsordnung",
+        "url":"http://www.et.tu-dresden.de/etit/index.php?id=infosdokumentebe"
+      },
+      {
+        "name":"Fachschaftsrat ET",
+        "url":"https://www.fsret.de/"
+      },
+      {
+        "name":"AGDSN",
+        "url":"https://www.wh2.tu-dresden.de/"
+      },
+      {
+        "name":"Auditorium",
+        "url":"https://auditorium.inf.tu-dresden.de/"
+      },
+      {
+        "name":"Mensa",
+        "url":"http://www.studentenwerk-dresden.de/mensen/speiseplan/"
+      }
+    ]
+  },
+  {
+    "title":"1. Semester",
+    "entries":[
+      {
+        "name":"Mathe 1",
+        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ws2015.shtml"
+      },
+      {
+        "name":"Grundlagen der Elektrotechnik",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/get.php"
+      },
+      {
+        "name":"Algebra",
+        "url":"http://www.math.tu-dresden.de/~baumann/algebra_fuer_informationssystemtechniker.html"
+      },
+      {
+        "name":"Algebra Übung",
+        "url":"http://tu-dresden.de/Members/christian.zschalig/Lehre/algebra_fuer_ist/1516_algebra_fuer_ist"
+      },
+      {
+        "name":"Algorithmen und Datenstrukturen",
+        "url":"https://www.inf.tu-dresden.de/index.php?node_id=3692&ln=de"
+      },
+      {
+        "name":"Einführungspraktikum",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/sysa/se/teaching/courses/ws/einfuehrungspraktikum_roboter_lab"
+      }
+    ]
+  },
+  {
+    "title":"2. Semester",
+    "entries":[
+      {
+        "name":"Softwaretechnologie",
+        "url":"http://st.inf.tu-dresden.de/teaching/swt"
+      },
+      {
+        "name":"Praktomat",
+        "url":"http://praktomat.inf.tu-dresden.de/"
+      },
+      {
+        "name":"Elektrische und magnetische Felder",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/emf.php"
+      },
+      {
+        "name":"Mathe 2",
+        "url":"http://www.math.tu-dresden.de/~wensch/mathe2/index.html"
+      },
+      {
+        "name":"Programmierung",
+        "url":"http://www.inf.tu-dresden.de/index.php?node_id=3628&ln=de"
+      },
+      {
+        "name":"Algebra",
+        "url":"http://www.math.tu-dresden.de/~baumann/algebra_fuer_informationssystemtechniker.html"
+      },
+      {
+        "name":"Algebra Übung",
+        "url":"http://tu-dresden.de/Members/christian.zschalig/Lehre/algebra_fuer_ist/1516_algebra_fuer_ist"
+      }
+    ]
+  },
+  {
+    "title":" 3. Semester",
+    "entries":[
+      {
+        "name":"Mathe 3",
+        "url":"http://www.math.tu-dresden.de/~wensch/mathe3/"
+      },
+      {
+        "name":"Dynamische Netzwerke",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/dyn.php"
+      },
+      {
+        "name":"Technische Grundlagen der Informatik",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/tei/vlsi/lehre/lehrmat/tg_vlsi"
+      },
+      {
+        "name":"Rechnerarchitektur I",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/tei/vlsi/lehre/lehrmat/ra_i_vlsi"
+      },
+      {
+        "name":"Systemtheorie I/II",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/systh/index_html/document_view?set_language=de"
+      },
+      {
+        "name":"Systemtheorie OPAL-Kurs",
+        "url":"https://bildungsportal.sachsen.de/opal/auth/repo/go?rid=1110474793"
+      },
+      {
+        "name":"Elektronische Bauelemente",
+        "url":"http://www.iee.et.tu-dresden.de/iee/eb/lehre/lv/lak/BE_ET_MOD_lak.html"
+      },
+      {
+        "name":"Praktikum ET1",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/prak.php"
+      },
+      {
+        "name":"Praktikum SWT",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/smt/st/studium?leaf=1&lang=de&subject=299"
+      }
+    ]
+  },
+  {
+    "title":"4. Semester",
+    "entries":[
+      {
+        "name":"Mathe 4",
+        "url":"http://www.math.tu-dresden.de/~wensch/mathe4/index.html"
+      },
+      {
+        "name":"Schaltungstechnik",
+        "url":"http://ccn.et.tu-dresden.de/index.php?id=ccn_edu_as"
+      },
+      {
+        "name":"Automatisierungstechnik",
+        "url":"http://www.et.tu-dresden.de/ifa/index.php?id=632"
+      },
+      {
+        "name":"Rechnerarchitektur II",
+        "url":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/8511488015"
+      },
+      {
+        "name":"Systemtheorie I/II",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/systh/index_html/document_view?set_language=de"
+      },
+      {
+        "name":"Praktikum ET2",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/prak.php"
+      },
+      {
+        "name":"Hardwarepraktikum",
+        "url":"http://www.mr.inf.tu-dresden.de/?node=0e11&page=hinweise&ln=de"
+      }
+    ]
+  },
+  {
+    "title":"5. Semester",
+    "entries":[
+      {
+        "name":"Betriebssysteme und Sicherheit",
+        "url":"http://www.inf.tu-dresden.de/index.php?node_id=1312&ln=de"
+      },
+      {
+        "name":"Schaltkreis- und Systementwurf",
+        "url":"http://hpsn.et.tu-dresden.de/?id=ice"
+      },
+      {
+        "name":"Formale Systeme",
+        "url":"http://ddll.inf.tu-dresden.de/web/Formale_Systeme%28WS2015%29"
+      },
+      {
+        "name":"Signalverarbeitung",
+        "url":"http://www.ias.et.tu-dresden.de/ias/systemtheorie-und-sprachtechnologie/lehre/signalverarbeitung/"
+      }
+    ]
+  },
+  {
+    "title":"6. Semester",
+    "entries":[
+      {
+        "name":"Compilerbau",
+        "url":"https://cfaed.tu-dresden.de/index.php/cc-teaching.html"
+      },
+      {
+        "name":"Datenbanken",
+        "url":"https://wwwdb.inf.tu-dresden.de/lectures/ss-2015/datenbanken-grundlagen/"
+      },
+      {
+        "name":"Informationstheorie",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/infth"
+      },
+      {
+        "name":"Nachrichtentechnik",
+        "url":"https://mns.ifn.et.tu-dresden.de/Teaching/Pages/Courses.aspx?get=15"
+      },
+      {
+        "name":"Rechnernetze",
+        "url":"http://www.inf.tu-dresden.de/index.php?node_id=2568&ln=de&lv_id=1"
+      }
+    ]
+  }
+]
