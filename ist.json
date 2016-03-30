@@ -94,11 +94,11 @@
       },
       {
         "name":"Mathe 2",
-        "url":"http://www.math.tu-dresden.de/~wensch/mathe2/index.html"
+        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_sos2016.shtml"
       },
       {
         "name":"Programmierung",
-        "url":"http://www.inf.tu-dresden.de/index.php?node_id=3628&ln=de"
+        "url":"https://www.inf.tu-dresden.de/index.php?node_id=3720&ln=de"
       },
       {
         "name":"Algebra",
@@ -123,7 +123,7 @@
       },
       {
         "name":"Technische Grundlagen der Informatik",
-        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/tei/vlsi/lehre/lehrmat/tg_vlsi"
+        "url":"https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/tei/vlsi/lehre/lehrmat/tg_vlsi/document_view?set_language=de"
       },
       {
         "name":"Rechnerarchitektur I",
@@ -156,7 +156,7 @@
     "entries":[
       {
         "name":"Mathe 4",
-        "url":"http://www.math.tu-dresden.de/~wensch/mathe4/index.html"
+        "url":"http://www.math.tu-dresden.de/~wensch/mainfiles/?page=mathe4"
       },
       {
         "name":"Schaltungstechnik",
@@ -168,7 +168,7 @@
       },
       {
         "name":"Rechnerarchitektur II",
-        "url":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/8511488015"
+        "url":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/10894671880"
       },
       {
         "name":"Systemtheorie I/II",
@@ -214,7 +214,7 @@
       },
       {
         "name":"Datenbanken",
-        "url":"https://wwwdb.inf.tu-dresden.de/lectures/ss-2015/datenbanken-grundlagen/"
+        "url":"https://wwwdb.inf.tu-dresden.de/lectures/ss-2016/datenbanken-grundlagen/"
       },
       {
         "name":"Informationstheorie",
