@@ -81,6 +81,9 @@ if __name__ == "__main__":
 		jf.close()
 		unittest.main()
 	jf.close()
-	for subj in files:
-		create_test(subj['id'])
+	try:
+		for subj in files:
+			create_test(subj['id'])
+	except KeyError:
+		unittest.main()
 	unittest.main()
