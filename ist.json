@@ -45,6 +45,10 @@
       {
         "name":"Mensa",
         "url":"http://www.studentenwerk-dresden.de/mensen/speiseplan/"
+      },
+      {
+        "name":"netAction",
+        "url":"http://et.netaction.de/forum/index.php"
       }
     ]
   },
