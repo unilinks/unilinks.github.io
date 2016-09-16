@@ -16,3 +16,18 @@ Dabei gibte es einen Index (`index.json`), in dem alle verfügbaren Studiengäng
 Die Links eines Studiengangs sind in jeweils einer Datei abgelegt deren Name sich aus der ID bildet (`id.json`).
 Die Links der Studiengänge sind in Gruppen unterteilt (Allgemein für z. Bsp. das Studienportal und nach Semester).
 Jeder Gruppeneintrag (Link) enthält einen lesbaren Namen sowie einen Link zur jeweiligen Veranstaltungsseite.
+
+## Note berechnen
+
+Zuerst generiere die Vorlage z.B.:
+
+	#für das Grundstudium
+	python noten.py --gen et.gs
+
+
+	#für das Hauptstudium mit Vertiefung MEL
+	python noten.py --gen et.hs mel.hs
+
+Trage deine Noten in die Datei im Hauptverzeichnis ein die du schon kennst (Rest wird ignoriert) und:
+
+	python noten.py --calc mel.hs
