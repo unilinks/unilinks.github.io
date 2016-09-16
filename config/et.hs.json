@@ -1,0 +1,30 @@
+[
+	{
+		"id":"",
+		"name":"",
+		"credits":"",
+		"exams":{},
+		"praktikum":"",
+		"beleg":""
+	},
+      {
+        "name":"Schaltungstechnik",
+        "modul":"ET-12 08 04",
+		"credits":10
+      },
+            {
+        "name":"Numerische Mathematik",
+        "modul":"ET-12 02 02",
+		"credits":4
+      },
+      {
+        "name":"Theoretische Elektrotechnik",
+        "modul":"ET-12 02 01",
+		"credits":10
+      },
+      {
+        "name":"Mess- und Sensortechnik",
+        "modul":"ET-12 08 06",
+		"credits":4
+      }
+]
