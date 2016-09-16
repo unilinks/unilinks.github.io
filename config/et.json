@@ -140,7 +140,7 @@
       },
       {
         "name":"Messtechnik I",
-        "url":"",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/messtechnik-1-grundzuege-des-messens",
         "modul":"ET-12 01 02"
       },
       {
@@ -176,22 +176,22 @@
     "entries":[
       {
         "name":"Numerische Mathematik",
-        "url":"",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
         "modul":"ET-12 02 02",
       },
       {
         "name":"Theoretische Elektrotechnik I",
-        "url":"",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
         "modul":"ET-12 02 01",
       },
       {
         "name":"Messtechnik II",
-        "url":"",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/messtechnik-2-mess-und-sensortechnik",
         "modul":"ET-12 08 06",
       },
       {
         "name":"Praktikum Schaltungstechnik",
-        "url":"",
+        "url":"http://ccn.et.tu-dresden.de/index.php?id=294",
         "modul":"ET-12 08 04",
       }
     ]
@@ -201,7 +201,7 @@
     "entries":[
       {
         "name":"Theoretische Elektrotechnik II",
-        "url":"",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
         "modul":"ET-12 02 01",
       }
     ]

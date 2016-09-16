@@ -1,30 +1,57 @@
 [
-	{
-		"id":"",
-		"name":"",
-		"credits":"",
-		"exams":{},
-		"praktikum":"",
-		"beleg":""
-	},
       {
         "name":"Schaltungstechnik",
         "modul":"ET-12 08 04",
-		"credits":10
+		    "credits":10
       },
-            {
+      {
         "name":"Numerische Mathematik",
         "modul":"ET-12 02 02",
-		"credits":4
+		    "credits":4
       },
       {
         "name":"Theoretische Elektrotechnik",
         "modul":"ET-12 02 01",
-		"credits":10
+		    "credits":10
       },
       {
         "name":"Mess- und Sensortechnik",
         "modul":"ET-12 08 06",
-		"credits":4
+        "credits":4
+      },
+      {
+        "name":"Diplomarbeit",
+        "modul":"ET-30 10 02 02",
+        "credits":30
+      },
+      {
+        "name":"Studienarbeit",
+        "modul":"ET-12 STA",
+        "credits":12
+      },
+      {
+        "name":"Wahlpflich I",
+        "modul":"ET-12 XX XX",
+        "credits":7
+      },
+      {
+        "name":"Wahlpflich II",
+        "modul":"ET-12 XX XX",
+        "credits":7
+      },
+      {
+        "name":"Wahlpflich III",
+        "modul":"ET-12 XX XX",
+        "credits":7
+      },
+      {
+        "name":"Wahlpflich IV",
+        "modul":"ET-12 XX XX",
+        "credits":7
+      },
+      {
+        "name":"Wahlpflich V",
+        "modul":"ET-12 XX XX",
+        "credits":7
       }
 ]

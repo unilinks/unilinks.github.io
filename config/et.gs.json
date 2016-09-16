@@ -1,132 +1,92 @@
 [
-	  {
+    {
         "name":"Mathe 1",
         "modul":"ET-01 04 01",
-		"credits":11
+        "credits":11
       },
       {
         "name":"Grundlagen der Elektrotechnik",
         "modul":"ET-12 08 01",
-		"credits":6
-      },
-      {
-        "name":"Informatik I",
-        "modul":"ET-11 02 01",
-		"credits":7,
-		"exams":{
-			"parts":[0.5, 0.5]
-		}
-      },
-      {
-        "name":"Werkstoffe/Technische Mechanik",
-        "modul":"ET-13 00 01",
-		"credits":7,
-		"exams":{
-			"parts":[0.5, 0.5]
-		}
-      },
-      {
-        "name":"Naturwissenschaftliche Grundlagen",
-        "modul":"ET-02 06 04 05",
-		"exams":{
-			"parts":[0.5, 0.5]
-		}
-      }
-
-      {
-        "name":"Geräteentwicklung",
-        "modul":"ET-12 05 01",
-		"credits":4
-      },
-      {
-        "name":"Elektrische und magnetische Felder",
-        "modul":"ET-12 08 02",
-		"credits":6
-      },
-      {
-        "name":"Mathe 2",
-        "modul":"ET-01 04 02",
-		"credits":9
+        "credits":6
       },
       {
         "name":"Informatik",
         "modul":"ET-11 02 01",
-		"credits":7,
-		"exams":{
-			"parts":[0.5, 0.5]
-		}
+        "credits":7
+      },
+      {
+        "name":"Werkstoffe/Technische Mechanik",
+        "modul":"ET-13 00 01",
+        "credits":7
+      },
+      {
+        "name":"Naturwissenschaftliche Grundlagen",
+        "modul":"ET-02 06 04 05",
+        "credits":7
+      },
+      {
+        "name":"Geräteentwicklung",
+        "modul":"ET-12 05 01",
+        "credits":4
+      },
+      {
+        "name":"Elektrische und magnetische Felder",
+        "modul":"ET-12 08 02",
+        "credits":6
+      },
+      {
+        "name":"Mathe 2",
+        "modul":"ET-01 04 02",
+        "credits":9
       },
       {
         "name":"Mathe 3",
         "modul":"ET-01 04 03",
-		"credits":4
+        "credits":4
       },
       {
         "name":"Dynamische Netzwerke",
         "modul":"ET-12 08 03",
-		"credits":8,
-		"exams":{
-			"frac":0.7
-		},
-		"praktikum":{
-			"frac":0.3,
-			"nr":9
-		}
+        "credits":8
       },
       {
         "name":"Systemtheorie",
         "modul":"ET-12 09 01",
-		"credits":7
+        "credits":7
       },
       {
         "name":"Elektronische Bauelemente/Mikrotechnologie",
         "modul":"ET-12 08 11",
-		"credits":6,
-		"exams":{
-			"parts":[0.6, 0.4]
-		}
+        "credits":6
       },
       {
         "name":"Mikrorechentechnik",
         "modul":"ET-12 01 01",
-		"credits":7,
-		"praktikum":{
-			"nr":7
-		}
+        "credits":7
       },
       {
         "name":"Elektroenergietechnik",
         "modul":"ET-12 04 01",
-		"credits":5,
-		"exams":{
-			"frac":0.6667
-		},
-		"praktikum":{
-			"frac":0.3333,
-			"nr":4
-		}
+        "credits":5
       },
       {
         "name":"Praktikum PET",
         "modul":"ET-12 06 10",
-		"credits":3
-      }
-	  {
+        "credits":3
+      },
+      {
         "name":"Mathe 4",
         "modul":"ET-01 04 04",
-		"credits":4
+        "credits":4
       },
       {
         "name":"Automatisierungstechnik",
         "modul":"ET-12 01 02",
-		"credits":5,
-		"exams":{
-			"parts":[0.6, 0.4]
-		}
+        "credits":5
       },
       {
         "name":"Nachrichtentechnik",
         "modul":"ET-12 10 24",
-		"credits":3
+        "credits":3
       }
 ]
