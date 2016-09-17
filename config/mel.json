@@ -1,0 +1,92 @@
+[
+  {
+      "title":"5. Semester",
+      "entries":[
+        {
+          "name":"AVT",
+          "url":"https://www.avt.et.tu-dresden.de/studium/wintersemester/",
+          "modul":"ET-12 06 02"
+        },
+        {
+          "name":"Integrierte Analogschaltungen",
+          "url":"",
+          "modul":"ET-12 08 12"
+        },
+        {
+          "name":"Numerische Bauelementesimulation",
+          "url":"https://www.iee.et.tu-dresden.de/iee/eb/lehre/lv/lak/PAB_ET_MOD_lak.html",
+          "modul":"ET-12 08 13"
+        },
+        {
+          "name":"Mikrosystemtechnik",
+          "url":"https://www.avt.et.tu-dresden.de/studium/wintersemester/",
+          "modul":"ET-12 12 01"
+        },
+        {
+          "name":"Praktikum Schaltkreis- und Systementwurf",
+          "url":"https://hpsn.et.tu-dresden.de/index.php?id=ice",
+          "modul":"ET-12 08 23"
+        },
+        {
+          "name":"Beleg Numerische Bauelementesimulation",
+          "url":"https://www.avt.et.tu-dresden.de/studium/wintersemester/",
+          "modul":""
+        },
+        {
+          "name":"Praktikum AVT",
+          "url":"https://www.avt.et.tu-dresden.de/studium/wintersemester/",
+          "modul":"ET-12 06 02"
+        }
+      ]
+    },
+    {
+      "title":"6. Semester",
+      "entries":[
+        {
+          "name":"Modellierung für den Schaltungsentwurf",
+          "url":"https://www.iee.et.tu-dresden.de/iee/eb/lehre/lv/lak/PAB_ET_MOD_lak.html",
+          "modul":"ET-12 08 13"
+        },
+        {
+          "name":"Werkstoffe II",
+          "url":"http://www.ifte.de/lehre/rechn_entwurf/index.html",
+          "modul":"ET-12 12 01"
+        },
+        {
+          "name":"Halbleitertechnologie",
+          "url":"http://www.ifte.de/lehre/rechn_entwurf/index.html",
+          "modul":"ET-12 12 01"
+        },
+        {
+          "name":"Schaltkreis- und Systementwurf",
+          "url":"http://www.ifte.de/lehre/rechn_entwurf/index.html",
+          "modul":"ET-12 08 23"
+        },
+        {
+          "name":"Hauptseminar Mikroelektronik",
+          "url":"https://www.iee.et.tu-dresden.de/iee/eb/lehre/lv/lak/MIK_NANO_ET_lak.html",
+          "modul":"ET-12 08 15"
+        },
+        {
+          "name":"Praktikum Mikrosysteme",
+          "url":"",
+          "modul":"ET-12 12 01"
+        },
+        {
+          "name":"Praktikum AVT",
+          "url":"https://www.avt.et.tu-dresden.de/studium/sommersemester/",
+          "modul":"ET-12 06 02"
+        },
+        {
+          "name":"Praktikum Halbleitertechnologie",
+          "url":"",
+          "modul":"ET-12 12 01"
+        },
+        {
+          "name":"Praktikum Werkstoffe",
+          "url":"",
+          "modul":"ET-12 12 01"
+        }
+      ]
+    }
+]

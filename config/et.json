@@ -1,0 +1,209 @@
+[
+  {
+    "title":"1. Semester",
+    "entries":[
+      {
+        "name":"Mathe 1",
+        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ws2015.shtml",
+        "modul":"ET-01 04 01",
+      },
+      {
+        "name":"Grundlagen der Elektrotechnik",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/get.php",
+        "modul":"ET-12 08 01",
+      },
+      {
+        "name":"Informatik I",
+        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/winter-2015-16/informatik-1-fuer-et-mt-res",
+        "modul":"ET-11 02 01",
+      },
+      {
+        "name":"Werkstoffe I",
+        "url":"http://tu-dresden.de/Members/christian.zschalig/Lehre/algebra_fuer_ist/1516_algebra_fuer_ist",
+        "modul":"ET-13 00 01",
+      },
+      {
+        "name":"Physik I",
+        "url":"https://tu-dresden.de/mn/physik/iap/hlp/studium/lehrveranstaltungen/",
+        "modul":"ET-02 06 04 05",
+      }
+    ]
+  },
+  {
+    "title":"2. Semester",
+    "entries":[
+      {
+        "name":"Geräteentwicklung",
+        "url":"http://www.ifte.de/lehre/geraeteentwicklung/",
+        "modul":"ET-12 05 01"
+      },
+      {
+        "name":"Elektrische und magnetische Felder",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/emf.php",
+        "modul":"ET-12 08 02"
+      },
+      {
+        "name":"Mathe 2",
+        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_sos2016.shtml",
+        "modul":"ET-01 04 02"
+      },
+      {
+        "name":"Informatik II",
+        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/sommer-2016/informatik-2-fuer-et-mt-res",
+        "modul":"ET-11 02 01"
+      },
+      {
+        "name":"Praktikum Informatik",
+        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/sommer-2016/informatik-2-fuer-et-mt-res/praktikum",
+        "modul":"ET-11 02 01"
+      },
+      {
+        "name":"Physik II",
+        "url":"https://tu-dresden.de/mn/physik/iap/hlp/studium/lehrveranstaltungen/physik2",
+        "modul":"ET-02 06 04 05"
+      },
+      {
+        "name":"Technische Mechanik",
+        "url":"???",
+        "modul":"ET-13 00 01"
+      }
+    ]
+  },
+  {
+    "title":" 3. Semester",
+    "entries":[
+      {
+        "name":"Mathe 3",
+        "url":"http://www.math.tu-dresden.de/~wensch/mathe3/",
+        "modul":"ET-01 04 03"
+      },
+      {
+        "name":"Dynamische Netzwerke",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/dyn.php",
+        "modul":"ET-12 08 03"
+      },
+      {
+        "name":"Systemtheorie I/II",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/systh/index_html/document_view?set_language=de",
+        "modul":"ET-12 09 01"
+      },
+      {
+        "name":"Elektronische Bauelemente",
+        "url":"http://www.iee.et.tu-dresden.de/iee/eb/lehre/lv/lak/BE_ET_MOD_lak.html",
+        "modul":"ET-12 08 11"
+      },
+      {
+        "name":"Mikrotechnologien",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ihm/studium/lehrveranstaltungen/grundstudium-elektrotechnik-1/technologien-und-bauelemente-der-mikroelektronik/grundstudium-elektrotechnik",
+        "modul":"ET-12 08 11"
+      },
+      {
+        "name":"Mikrorechentechnik I",
+        "url":"http://www.et.tu-dresden.de/ifa/index.php?id=1648",
+        "modul":"ET-12 01 01"
+      },
+      {
+        "name":"Elektroenergietechnik",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/lehrveranstaltungen/vorlesungen-im-wintersemester",
+        "opal":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/9201385478",
+        "modul":"ET-12 04 01"
+      },
+      {
+        "name":"Praktikum ET1",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/prak.php",
+        "modul":"ET-12 08 03"
+      },
+      {
+        "name":"Praktikum PET",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/smt/st/studium?leaf=1&lang=de&subject=299",
+        "modul":"ET-12 06 10"
+      }
+    ]
+  },
+  {
+    "title":"4. Semester",
+    "entries":[
+      {
+        "name":"Mathe 4",
+        "url":"http://www.math.tu-dresden.de/~wensch/mainfiles/?page=mathe4",
+        "modul":"ET-01 04 04"
+      },
+      {
+        "name":"Schaltungstechnik",
+        "url":"http://ccn.et.tu-dresden.de/index.php?id=ccn_edu_as",
+        "modul":"ET-12 08 04"
+      },
+      {
+        "name":"Automatisierungstechnik",
+        "url":"http://www.et.tu-dresden.de/ifa/index.php?id=632",
+        "modul":"ET-12 01 02"
+      },
+      {
+        "name":"Messtechnik I",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/messtechnik-1-grundzuege-des-messens",
+        "modul":"ET-12 01 02"
+      },
+      {
+        "name":"Mikrorechentechnik II",
+        "url":"http://www.et.tu-dresden.de/ifa/index.php?id=mrt2",
+        "modul":"ET-12 01 01"
+      },
+      {
+        "name":"Nachrichtentechnik",
+        "url":"https://mns.ifn.et.tu-dresden.de/Teaching/Pages/Courses.aspx?get=15",
+        "modul":"ET-12 10 24"
+      },
+      {
+        "name":"Systemtheorie I/II",
+        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/systh/index_html/document_view?set_language=de",
+        "modul":"ET-12 09 01"
+      },
+      {
+        "name":"Praktikum Elektroenergietechnik",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/lehrveranstaltungen/praktika",
+        "opal":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/9201385478",
+        "modul":"ET-12 04 01"
+      },
+      {
+        "name":"Praktikum ET2",
+        "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/prak.php",
+        "modul":"ET-12 08 03"
+      }
+    ]
+  },
+  {
+    "title":"5. Semester",
+    "entries":[
+      {
+        "name":"Numerische Mathematik",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
+        "modul":"ET-12 02 02",
+      },
+      {
+        "name":"Theoretische Elektrotechnik I",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
+        "modul":"ET-12 02 01",
+      },
+      {
+        "name":"Messtechnik II",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/messtechnik-2-mess-und-sensortechnik",
+        "modul":"ET-12 08 06",
+      },
+      {
+        "name":"Praktikum Schaltungstechnik",
+        "url":"http://ccn.et.tu-dresden.de/index.php?id=294",
+        "modul":"ET-12 08 04",
+      }
+    ]
+  },
+  {
+    "title":"6. Semester",
+    "entries":[
+      {
+        "name":"Theoretische Elektrotechnik II",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
+        "modul":"ET-12 02 01",
+      }
+    ]
+  }
+]
