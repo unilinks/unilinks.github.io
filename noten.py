@@ -2,12 +2,12 @@
 import argparse
 import json
 
-#generiert die vorlage aus den Modulbeschreibungen in config/ in die deine Noten kommen
+#generiert die vorlage aus den Modulbeschreibungen in data/ in die deine Noten kommen
 def genNoten(files):
     #öffnet vorlage aller module
     data = []
     for file in files:
-        with open("config/"+file+".json", encoding='utf-8') as data_file:
+        with open("data/"+file+".json", encoding='utf-8') as data_file:
             data+=json.loads(data_file.read())
         #für jedes modul
         for modul in data:
@@ -37,7 +37,7 @@ def calcNoten(file):
 #cli args
 p = argparse.ArgumentParser(description='Rechnet deine Note als Student an der Fakultät EuI aus')
 p.add_argument('--gen',  action='store_true',  help='''generiert eine leere Datei, in die ihr eure Noten eintragen könnt
-die Augangsdateien sollten dabei im Ordner "config/ enthalten sein und ohne die Dateiendung ingegeben werden bsp.: 
+die Augangsdateien sollten dabei im Ordner "data/ enthalten sein und ohne die Dateiendung ingegeben werden bsp.: 
 "python noten.py gen -i et.gs" "python noten.py  gen -i et.hs et.mel"''')
 
 p.add_argument('--calc', action='store_true', help='errechnet eure Note aus ausgefüllter Datei, Eingabedatei ohne Dateiendung eingeben bsp. "python noten.py calc -i input"')
