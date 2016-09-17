@@ -1,0 +1,16 @@
+[
+  {
+    "id":"ist",
+    "title":"Informationssystemtechnik"
+  },
+
+  {
+    "id":"et",
+    "title":"Elektrotechnik"
+  },
+
+  {
+    "id":"mel",
+    "title":"Mikroelektronik"
+  }
+]

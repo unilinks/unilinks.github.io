@@ -5,27 +5,27 @@
       {
         "name":"Mathe 1",
         "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ws2015.shtml",
-        "modul":"ET-01 04 01",
+        "modul":"ET-01 04 01"
       },
       {
         "name":"Grundlagen der Elektrotechnik",
         "url":"http://www.iee.et.tu-dresden.de/iee/ge/Lehre/get.php",
-        "modul":"ET-12 08 01",
+        "modul":"ET-12 08 01"
       },
       {
         "name":"Informatik I",
         "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/winter-2015-16/informatik-1-fuer-et-mt-res",
-        "modul":"ET-11 02 01",
+        "modul":"ET-11 02 01"
       },
       {
         "name":"Werkstoffe I",
         "url":"http://tu-dresden.de/Members/christian.zschalig/Lehre/algebra_fuer_ist/1516_algebra_fuer_ist",
-        "modul":"ET-13 00 01",
+        "modul":"ET-13 00 01"
       },
       {
         "name":"Physik I",
         "url":"https://tu-dresden.de/mn/physik/iap/hlp/studium/lehrveranstaltungen/",
-        "modul":"ET-02 06 04 05",
+        "modul":"ET-02 06 04 05"
       }
     ]
   },
@@ -177,22 +177,22 @@
       {
         "name":"Numerische Mathematik",
         "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
-        "modul":"ET-12 02 02",
+        "modul":"ET-12 02 02"
       },
       {
         "name":"Theoretische Elektrotechnik I",
         "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
-        "modul":"ET-12 02 01",
+        "modul":"ET-12 02 01"
       },
       {
         "name":"Messtechnik II",
         "url":"https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/messtechnik-2-mess-und-sensortechnik",
-        "modul":"ET-12 08 06",
+        "modul":"ET-12 08 06"
       },
       {
         "name":"Praktikum Schaltungstechnik",
         "url":"http://ccn.et.tu-dresden.de/index.php?id=294",
-        "modul":"ET-12 08 04",
+        "modul":"ET-12 08 04"
       }
     ]
   },
@@ -202,7 +202,7 @@
       {
         "name":"Theoretische Elektrotechnik II",
         "url":"https://tu-dresden.de/ing/elektrotechnik/eti/te/studium/lehrveranstaltungen",
-        "modul":"ET-12 02 01",
+        "modul":"ET-12 02 01"
       }
     ]
   }
