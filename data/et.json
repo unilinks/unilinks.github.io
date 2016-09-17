@@ -64,7 +64,7 @@
       },
       {
         "name":"Technische Mechanik",
-        "url":"???",
+        "url":"",
         "modul":"ET-13 00 01"
       }
     ]
@@ -105,8 +105,11 @@
       {
         "name":"Elektroenergietechnik",
         "url":"https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/lehrveranstaltungen/vorlesungen-im-wintersemester",
-        "opal":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/9201385478",
         "modul":"ET-12 04 01"
+      },
+      {
+        "name":"Elektroenergietechnik OPAL-Kurs",
+        "url":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/9201385478"
       },
       {
         "name":"Praktikum ET1",
@@ -161,8 +164,11 @@
       {
         "name":"Praktikum Elektroenergietechnik",
         "url":"https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/lehrveranstaltungen/praktika",
-        "opal":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/9201385478",
         "modul":"ET-12 04 01"
+      },
+      {
+        "name":"Praktikum Elektroenergietechnik OPAL-Kurs",
+        "url":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/9201385478"
       },
       {
         "name":"Praktikum ET2",
