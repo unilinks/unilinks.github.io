@@ -65,7 +65,7 @@
     "entries":[
       {
         "name":"Mathe 1",
-        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ws2015.shtml"
+        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/biologen_ws2016.shtml"
       },
       {
         "name":"Grundlagen der Elektrotechnik",
@@ -81,11 +81,11 @@
       },
       {
         "name":"Algorithmen und Datenstrukturen",
-        "url":"https://www.inf.tu-dresden.de/index.php?node_id=3692&ln=de"
+        "url":"https://www.inf.tu-dresden.de/index.php?node_id=3749&ln=de"
       },
       {
         "name":"Einführungspraktikum",
-        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/sysa/se/teaching/courses/ws/einfuehrungspraktikum_roboter_lab"
+        "url":"https://tu-dresden.de/ing/informatik/sya/se/studium/labs-seminars/einfuehrungspraktikum_roboter_lab?set_language=de"
       }
     ]
   },
@@ -127,7 +127,7 @@
     "entries":[
       {
         "name":"Mathe 3",
-        "url":"http://www.math.tu-dresden.de/~wensch/mathe3/"
+        "url":"http://www.math.tu-dresden.de/~sasvari/Lehrveranstaltungen/2016-Winter/Mathematik-ET-II-1.htm"
       },
       {
         "name":"Dynamische Netzwerke",
@@ -135,19 +135,15 @@
       },
       {
         "name":"Technische Grundlagen der Informatik",
-        "url":"https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/tei/vlsi/lehre/lehrmat/tg_vlsi/document_view?set_language=de"
+        "url":"https://tu-dresden.de/ing/informatik/ti/vlsi/studium/lehrmaterialien/technische_grundlagen"
       },
       {
         "name":"Rechnerarchitektur I",
-        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/tei/vlsi/lehre/lehrmat/ra_i_vlsi"
+        "url":"https://tu-dresden.de/ing/informatik/ti/vlsi/studium/lehrmaterialien/rechnerarchitektur_1"
       },
       {
         "name":"Systemtheorie I/II",
-        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/systh/index_html/document_view?set_language=de"
-      },
-      {
-        "name":"Systemtheorie OPAL-Kurs",
-        "url":"https://bildungsportal.sachsen.de/opal/auth/repo/go?rid=1110474793"
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie"
       },
       {
         "name":"Elektronische Bauelemente",
@@ -209,11 +205,11 @@
       },
       {
         "name":"Formale Systeme",
-        "url":"http://ddll.inf.tu-dresden.de/web/Formale_Systeme%28WS2015%29"
+        "url":"https://iccl.inf.tu-dresden.de/web/Formale_Systeme_%28WS2016%29"
       },
       {
         "name":"Signalverarbeitung",
-        "url":"http://www.ias.et.tu-dresden.de/ias/systemtheorie-und-sprachtechnologie/lehre/signalverarbeitung/"
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/signalverarbietung"
       }
     ]
   },
