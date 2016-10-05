@@ -4,7 +4,7 @@
     "entries":[
       {
         "name":"Mathe 1",
-        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ws2015.shtml",
+        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ws2016.shtml",
         "modul":"ET-01 04 01"
       },
       {
@@ -14,17 +14,17 @@
       },
       {
         "name":"Informatik I",
-        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/winter-2015-16/informatik-1-fuer-et-mt-res",
+        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/winter-2015-16/informatik-1-fuer-et-mt-res/index?set_language=de",
         "modul":"ET-11 02 01"
       },
       {
         "name":"Werkstoffe I",
-        "url":"http://tu-dresden.de/Members/christian.zschalig/Lehre/algebra_fuer_ist/1516_algebra_fuer_ist",
+        "url":"http://rcswww.urz.tu-dresden.de/~bauch/Vo%20Werkstoffe%20%28f%C3%BCr%20ET-MT-RES%29/",
         "modul":"ET-13 00 01"
       },
       {
         "name":"Physik I",
-        "url":"https://tu-dresden.de/mn/physik/iap/hlp/studium/lehrveranstaltungen/",
+        "url":"https://tu-dresden.de/mn/physik/iap/hlp/studium/lehrveranstaltungen/physik1",
         "modul":"ET-02 06 04 05"
       }
     ]
@@ -74,7 +74,7 @@
     "entries":[
       {
         "name":"Mathe 3",
-        "url":"http://www.math.tu-dresden.de/~wensch/mathe3/",
+        "url":"http://www.math.tu-dresden.de/~sasvari/Lehrveranstaltungen/2016-Winter/Mathematik-ET-II-1.htm",
         "modul":"ET-01 04 03"
       },
       {
@@ -84,7 +84,7 @@
       },
       {
         "name":"Systemtheorie I/II",
-        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/systh/index_html/document_view?set_language=de",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie",
         "modul":"ET-12 09 01"
       },
       {
