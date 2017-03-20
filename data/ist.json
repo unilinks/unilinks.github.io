@@ -94,11 +94,7 @@
     "entries":[
       {
         "name":"Softwaretechnologie",
-        "url":"http://st.inf.tu-dresden.de/teaching/swt"
-      },
-      {
-        "name":"Praktomat",
-        "url":"http://praktomat.inf.tu-dresden.de/"
+        "url":"https://tu-dresden.de/ing/informatik/smt/st/studium/lehrveranstaltungen?leaf=2&lang=de&subject=341&embedding_id=47eddfa7c5a54ed5be49042aff35a31b"
       },
       {
         "name":"Elektrische und magnetische Felder",
@@ -110,11 +106,11 @@
       },
       {
         "name":"Programmierung",
-        "url":"https://www.inf.tu-dresden.de/index.php?node_id=3720&ln=de"
+        "url":"https://www.inf.tu-dresden.de/index.php?node_id=3774&ln=de"
       },
       {
         "name":"Algebra",
-        "url":"http://www.math.tu-dresden.de/~baumann/algebra_fuer_informationssystemtechniker.html"
+        "url":"https://www.math.tu-dresden.de/~jgreiner/AlgIST_WS16.html"
       },
       {
         "name":"Algebra Übung",
@@ -168,7 +164,7 @@
       },
       {
         "name":"Schaltungstechnik",
-        "url":"http://ccn.et.tu-dresden.de/index.php?id=ccn_edu_as"
+        "url":"https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/schaltungstechnik?set_language=de"
       },
       {
         "name":"Automatisierungstechnik",
@@ -176,11 +172,11 @@
       },
       {
         "name":"Rechnerarchitektur II",
-        "url":"https://bildungsportal.sachsen.de/opal/url/RepositoryEntry/10894671880"
+        "url":"https://tu-dresden.de/ing/informatik/ti/professur-fuer-rechnerarchitektur/studium/lehrveranstaltungen/vorlesungen/vorlesung-rechnerarchitektur-ii"
       },
       {
         "name":"Systemtheorie I/II",
-        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/systh/index_html/document_view?set_language=de"
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie"
       },
       {
         "name":"Praktikum ET2",
@@ -222,11 +218,11 @@
       },
       {
         "name":"Datenbanken",
-        "url":"https://wwwdb.inf.tu-dresden.de/lectures/ss-2016/datenbanken-grundlagen/"
+        "url":"https://wwwdb.inf.tu-dresden.de/study/teaching/ss_17/datenbanken-grundlagen/"
       },
       {
         "name":"Informationstheorie",
-        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/infth"
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/informationstheorie"
       },
       {
         "name":"Nachrichtentechnik",
