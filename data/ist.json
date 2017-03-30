@@ -102,7 +102,7 @@
       },
       {
         "name":"Mathe 2",
-        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_sos2016.shtml"
+        "url":"http://www.math.tu-dresden.de/~feldm/mainfiles/index.php?lang=de&page=mathe2"
       },
       {
         "name":"Programmierung",
@@ -156,7 +156,7 @@
     "entries":[
       {
         "name":"Mathe 4",
-        "url":"http://www.math.tu-dresden.de/~wensch/mainfiles/?page=mathe4"
+        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ss2017.shtml"
       },
       {
         "name":"Schaltungstechnik",
@@ -180,7 +180,7 @@
       },
       {
         "name":"Hardwarepraktikum",
-        "url":"http://www.mr.inf.tu-dresden.de/?node=0e11&page=hinweise&ln=de"
+        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/summer/hwp"
       }
     ]
   },

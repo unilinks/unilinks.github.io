@@ -14,7 +14,7 @@
       },
       {
         "name":"Informatik I",
-        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/winter-2015-16/informatik-1-fuer-et-mt-res/index?set_language=de",
+        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/winter/informatik-1-fuer-et-mt-res/index?set_language=de",
         "modul":"ET-11 02 01"
       },
       {
@@ -44,17 +44,17 @@
       },
       {
         "name":"Mathe 2",
-        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_sos2016.shtml",
+        "url":"http://www.math.tu-dresden.de/~feldm/mainfiles/index.php?lang=de&page=mathe2",
         "modul":"ET-01 04 02"
       },
       {
         "name":"Informatik II",
-        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/sommer-2016/informatik-2-fuer-et-mt-res",
+        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/summer/informatik-2-fuer-et-mt-res/index?set_language=de",
         "modul":"ET-11 02 01"
       },
       {
         "name":"Praktikum Informatik",
-        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/sommer-2016/informatik-2-fuer-et-mt-res/praktikum",
+        "url":"https://tu-dresden.de/ing/informatik/ti/es/studium/summer/informatik-2-fuer-et-mt-res/praktikum/index?set_language=de",
         "modul":"ET-11 02 01"
       },
       {
@@ -128,12 +128,12 @@
     "entries":[
       {
         "name":"Mathe 4",
-        "url":"http://www.math.tu-dresden.de/~wensch/mainfiles/?page=mathe4",
+        "url":"http://www.math.tu-dresden.de/~kuhlisch/lehre/mathe_et_ss2017.shtml",
         "modul":"ET-01 04 04"
       },
       {
         "name":"Schaltungstechnik",
-        "url":"http://ccn.et.tu-dresden.de/index.php?id=ccn_edu_as",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/schaltungstechnik?set_language=de",
         "modul":"ET-12 08 04"
       },
       {
@@ -158,13 +158,8 @@
       },
       {
         "name":"Systemtheorie I/II",
-        "url":"http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_elektrotechnik_und_informationstechnik/ifn/tnt/lehre/vl/systh/index_html/document_view?set_language=de",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie",
         "modul":"ET-12 09 01"
-      },
-      {
-        "name":"Praktikum Elektroenergietechnik",
-        "url":"https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/lehrveranstaltungen/praktika",
-        "modul":"ET-12 04 01"
       },
       {
         "name":"Praktikum Elektroenergietechnik OPAL-Kurs",
