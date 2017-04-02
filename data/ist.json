@@ -111,6 +111,10 @@
       {
         "name":"Algebra",
         "url":"https://www.math.tu-dresden.de/~jgreiner/AlgIST_SS17.html"
+      },
+      {
+        "name":"Inloop",
+        "url":"https://inloop.inf.tu-dresden.de/"
       }
     ]
   },
