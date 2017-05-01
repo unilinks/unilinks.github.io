@@ -3,7 +3,7 @@
     "title":"Allgemein",
     "entries":[
       {
-        "name":"Studierenden-Portal",
+        "name":"Studierenden-Portal (Selma)",
         "url":"https://portal.slm.tu-dresden.de/"
       },
       {
@@ -27,11 +27,11 @@
         "url":"https://bildungsportal.sachsen.de/opal/dmz/"
       },
       {
-        "name":"Prüfungsordnung",
-        "url":"http://www.et.tu-dresden.de/etit/index.php?id=infosdokumentebe"
+        "name":"Studiendokumente",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/studium/beratung-und-service/studiendokumente-und-ordnungen/diplom-ist"
       },
       {
-        "name":"Fachschaftsrat ET",
+        "name":"Fachschaftsrat",
         "url":"https://www.fsret.de/"
       },
       {
@@ -45,6 +45,18 @@
       {
         "name":"Mensa",
         "url":"http://www.studentenwerk-dresden.de/mensen/speiseplan/"
+      },
+      {
+        "name":"SLUB",
+        "url":"http://www.slub-dresden.de/startseite/"
+      },
+      {
+        "name":"Campus Navigator",
+        "url":"https://navigator.tu-dresden.de/"
+      },
+      {
+        "name":"MSX (Outlook Web)",
+        "url":"https://msx.tu-dresden.de/"
       },
       {
         "name":"netAction",
