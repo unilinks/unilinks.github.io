@@ -51,7 +51,20 @@ subschema = {
                 }
 
 class JsonValidate(unittest.TestCase):
-        pass
+        
+        def setUp(self):
+                jf = open("index.json", "r")
+                self.files = [_id['id'] for _id in json.load(jf)]
+                jf.close() 
+        
+        def test_index(self):
+                validate_file("index")
+
+        def test_files(self):
+                assert(self.files)
+                for _file in self.files:
+                        validate_file(_file)
+
 
 def validate_file(subject):
         f = open("{0}.json".format(subject), "r")
@@ -67,26 +80,3 @@ def validate_file(subject):
                 else:
                         validate(data, subschema)
         return test
-
-
-def create_test(id):
-        test_name = "test_{0}".format(id)
-        test = validate_file(id)
-        setattr(JsonValidate, test_name, test)
-
-
-if __name__ == "__main__":
-        create_test("index")
-        jf = open("index.json", "r")
-        try:
-                files = json.load(jf)
-        except json.decoder.JSONDecodeError:
-                jf.close()
-                unittest.main()
-        jf.close()
-        try:
-                for subj in files:
-                        create_test(subj['id'])
-        except KeyError:
-                unittest.main()
-        unittest.main()
