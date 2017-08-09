@@ -1,0 +1,7 @@
+.subnav {
+  margin-bottom: 20px;
+}
+
+html body div.container ul.nav.nav-tabs.subnav li a#GH {
+  padding: 4px 15px;
+}
