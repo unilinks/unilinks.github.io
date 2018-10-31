@@ -1,4 +1,4 @@
-# [Unilinks](http://jkliemann.de/unilinks.html)
+# [Unilinks](https://unilinksproject.github.io/)
 
 ## Was ist Unilinks
 
