@@ -1,4 +1,4 @@
-# [Unilinks](https://unilinks.github.io/)
+# Unilinks
 
 ## Was ist Unilinks
 
