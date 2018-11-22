@@ -4,43 +4,29 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="./lib/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./lib/css/semantic.min.css">
 
     <title>Unilinks</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Unilinks</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
-        <span class="navbar-toggler-icon"></span>
-    </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">
-                    Studiengänge
-                </a>
-                <div class="dropdown-menu" id="studiengaenge_dropdown">
-                </div>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="https://github.com/unilinks/">GitHub</a>
-            </li>
-        </ul>
+<div class="ui container">
+    <div class="ui menu">
+    <span class="item">
+       Unilinks
+    </span>
+        <div class="ui pointing dropdown link item">
+            <span class="text">Studiengänge</span>
+            <i class="dropdown icon"></i>
+            <div class="menu" id="studiengaenge"></div>
+        </div>
     </div>
-</nav>
-
-<div class="container my-2">
-    <div class="row">
-        <div class="col-lg-2" id="sections"></div>
-        <div class="col-lg-10 col-12" id="container"></div>
+    <div class="ui list" id="links">
     </div>
 </div>
 
 <script src="./lib/js/jquery.min.js"></script>
-<script src="./lib/js/jquery.min.js"></script>
-<script src="./lib/js/unilinks.js"></script>
+<script src="./lib/js/semantic.min.js"></script>
+<script src="./lib/js/unilinks2.js"></script>
 </body>
 </html>
