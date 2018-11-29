@@ -1,4 +1,4 @@
-# [Unilinks](https://unilinks.github.io/)
+# Unilinks
 
 ## Was ist Unilinks
 
@@ -11,3 +11,7 @@ Unilinks ist eine private Linksammlung zu Veranstaltungen von Studiengängen der
 * Informationssystemtechnik
 * Mechatronik 							(in Arbeit)
 * Regenarative Energiesysteme 			(in Arbeit)
+
+## Beitragen
+
+Weitere Informationen unter [Unilinks (Data)](https://github.com/unilinks/data).
