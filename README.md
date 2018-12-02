@@ -14,4 +14,4 @@ Unilinks ist eine private Linksammlung zu Veranstaltungen von Studiengängen der
 
 ## Beitragen
 
-Weitere Informationen unter [Unilinks (Data)](https://github.com/unilinks/data).
+Fehler und Probleme mit der Webseite können als **Pull request** oder **Issue** hier eingereicht werden. Für fehlerhaften Links, Aktualisierungen oder weiteren Seiten bitte diese im  [Unilinks (Data)](https://github.com/unilinks/data) Projekt einreichen.
