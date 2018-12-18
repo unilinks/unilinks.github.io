@@ -3,6 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description"
+          content="Unilinks ist eine Linksammlung von Studienten für Studenten der Fakultät Elektrotechnik und Unformationstechnik an der TU Dresden.">
 
     <link rel="stylesheet" href="./lib/css/bootstrap-material-design.min.css">
 
@@ -32,20 +34,30 @@
     </div>
 </nav>
 
-<div class="my-3 jumbotron" id="infocontainer" style="display: none">
+<div class="mt-4 jumbotron" id="infocontainer" style="display: none">
     <div class="container"><h1>Unilinks</h1>
         <p class="lead">Bitte den Studiengang aus der Liste auswählen.</p>
         <hr class="my-4">
-        <p>Sollte die Seite in Deinem Browser nicht korrekt funktionieren, findest Du <a href="http://unilinks.github.io/fallback/">hier</a> eine ältere Version.</p>
+        <p>Sollte die Seite in Deinem Browser nicht korrekt funktionieren, findest Du <a
+                href="http://unilinks.github.io/old/">hier</a> eine ältere Version.</p>
     </div>
 </div>
 
 <div class="container my-2">
     <div class="row">
         <div class="col-md-2 list-group position-fixed d-none d-md-block py-4" id="section_links"></div>
-        <div class="col-md-10 col-12 offset-md-2" id="linkcontainer"></div>
+        <div class="col-md-10 col-12 offset-md-2" id="linkcontainer" style="background-color: #fafafa"></div>
     </div>
 </div>
+
+
+<footer class="border border-light p-2 bg-white mt-4 d-none">
+    <div class="container text-center">
+        <span class="text-muted"><b>Achtung: </b>Die angegebenen Links können Fehler enthalten oder nicht mehr aktuell sein. Sollten Dir Probleme auffallen, melde diese einfach auf <a
+                href="https://github.com/unilinks/data">GitHub</a>. </span>
+    </div>
+</footer>
+
 
 <script src="./lib/js/jquery.min.js"></script>
 <script src="./lib/js/popper.min.js"></script>
