@@ -14,4 +14,4 @@ Unilinks ist eine private Linksammlung zu Veranstaltungen von Studiengängen der
 
 ## Beitragen
 
-Fehler und Probleme mit der Webseite können als **Pull request** oder **Issue** hier eingereicht werden. Für fehlerhaften Links, Aktualisierungen oder weiteren Seiten bitte diese im  [Unilinks (Data)](https://github.com/unilinks/data) Projekt einreichen.
+Fehler und Probleme mit der Webseite können als **Issue**, **Pull request** oder **E-Mail** an unilinks.dresden@gmail.com eingereicht werden. Für fehlerhaften Links, Aktualisierungen oder weiteren Seiten bitte diese im  [Unilinks (Data)](https://github.com/unilinks/data) Projekt einreichen.
