@@ -7,10 +7,10 @@ Unilinks ist eine private Linksammlung zu Veranstaltungen von Studiengängen der
 
 ## Verfügbare Studiengänge
 
-* Elektrotechnik 						(in Arbeit)
+* Elektrotechnik
 * Informationssystemtechnik
-* Mechatronik 							(in Arbeit)
-* Regenarative Energiesysteme 			(in Arbeit)
+* Mechatronik
+* Regenarative Energiesysteme
 
 ## Beitragen
 
