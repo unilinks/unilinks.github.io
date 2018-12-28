@@ -7,11 +7,11 @@ Unilinks ist eine private Linksammlung zu Veranstaltungen von Studiengängen der
 
 ## Verfügbare Studiengänge
 
-* Elektrotechnik 						(in Arbeit)
+* Elektrotechnik
 * Informationssystemtechnik
-* Mechatronik 							(in Arbeit)
-* Regenarative Energiesysteme 			(in Arbeit)
+* Mechatronik
+* Regenarative Energiesysteme
 
 ## Beitragen
 
-Weitere Informationen unter [Unilinks (Data)](https://github.com/unilinks/data).
+Fehler und Probleme mit der Webseite können als **Issue**, **Pull request** oder **E-Mail** an unilinks.dresden@gmail.com eingereicht werden. Für fehlerhaften Links, Aktualisierungen oder weiteren Seiten bitte diese im  [Unilinks (Data)](https://github.com/unilinks/data) Projekt einreichen.
