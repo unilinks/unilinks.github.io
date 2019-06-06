@@ -12,4 +12,4 @@
 
 ## Mitarbeit
 
-Fehler und Probleme mit der Webseite können als **Issue**, **Pull request** oder **E-Mail** an unilinks.dresden@gmail.com eingereicht werden. Für fehlerhaften Links, Aktualisierungen oder weiteren Seiten bitte diese im  [Unilinks (Data)](https://github.com/unilinks/data) Projekt einreichen.
+Vorschläge zu weiteren Links oder zu Aktualisierungen können als **Pull request** oder **Issue** eingereicht werden. Für fehlerhaften Links, Aktualisierungen oder weiteren Seiten bitte diese im  [Unilinks (Data)](https://github.com/unilinks/data) Projekt einreichen.
