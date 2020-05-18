@@ -1,0 +1,22 @@
+{
+  "name": "unilinks.github.io",
+  "version": "1.0.0",
+  "description": "**Unilinks** ist eine private Webseite zur Anzeige von Links der [Fakultät Elektrotechnik und Informationstechnik](https://tu-dresden.de/ing/elektrotechnik) der [TU Dresden](https://tu-dresden.de/) bzw. deren Studiengängen. Das Ziel ist, einen zusammenfassenden Überblick für Ressourcen einzelner Studiengänge zu geben. Dieses Repository dient zur offenen Verwaltung dieser Sammlung und ist ein Projekt von Studenten für Studenten.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unilinks/unilinks.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unilinks/unilinks.github.io/issues"
+  },
+  "homepage": "https://github.com/unilinks/unilinks.github.io#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
